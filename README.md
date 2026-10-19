@@ -37,8 +37,8 @@ con token de integración, aunque no para `catalog:register` headless).
 Ubicaciones actuales en el catálogo (tabla `locations`):
 
 ```text
-url  https://github.com/gusLopezC-DevOps/backstage-workloads/blob/main/apps/entities/kubernetes-cluster.yaml
-url  https://github.com/gusLopezC-DevOps/backstage-workloads/blob/main/apps/entities/infrastructure-system.yaml
+url  https://github.com/gusLopezC-DevOps/idp-backstage-catalog/blob/main/apps/entities/kubernetes-cluster.yaml
+url  https://github.com/gusLopezC-DevOps/idp-backstage-catalog/blob/main/apps/entities/infrastructure-system.yaml
 ```
 
 ## Entidades detalladas
